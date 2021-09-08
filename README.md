@@ -22,6 +22,7 @@
 <b> <h2 align="center"> 📘 My top open source projects </h2> </b>
 <br>
 <p align="center">
+ ![Simple Telegram Bot](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
 <a href="https://github.com/kharezmi/echobot"><img src="https://img.shields.io/badge/-Simple%20Telegram%20Bot-white" alt="Facebook" /></a>&nbsp;
 
 </p>
