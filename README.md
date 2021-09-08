@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center"> Hey there! I'm Azizbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="20" height="30"></h2>
+  <h2 align="center"> Hey there! I'm Azizbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h2>
 </p>
 <br>
 <p>
