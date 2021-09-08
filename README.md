@@ -21,7 +21,7 @@
 <b> <h2 align="center"> 📘 My top open source projects </h2> </b>
 <br>
 <p align="center">
-<a href="https://github.com/kharezmi/echobot"><img src="https://img.shields.io/badge/-Simple%20Telegram%20Bot-black" alt="Facebook" /></a>&nbsp;
+<a href="https://github.com/kharezmi/echobot"><img src="https://img.shields.io/badge/-Simple%20Telegram%20Bot-white" alt="Facebook" /></a>&nbsp;
 
 </p>
 <br>
@@ -42,8 +42,9 @@
 <br>
 <b> <h2 align="center">💻 My Github activity </h2></b>
 <p>
-  
+ <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kharezmi&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px" align="center">
+   </div>
 </p>
 <br>
 <br>
