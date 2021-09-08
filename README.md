@@ -51,9 +51,9 @@
 
 
 <b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
-  
+ <div align="center">
 <a href="https://instagram.com/kharezmi_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  <a href="linkedin.com/in/kharezmi-mirzayev-68592a213" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a><a href="mailto:kharezmi.uz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a><a href="https://t.me/kharezmi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
-  
+  </div>
 </p>
 
 <div align="center">
