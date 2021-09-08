@@ -21,7 +21,7 @@
 <b> <h2 align="center"> 📘 My top open source projects </h2> </b>
 <br>
 <p align="center">
-<a href="https://github.com/kharezmi/echobot"><img src="https://img.shields.io/badge/EDUCATION SITE-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://github.com/kharezmi/echobot"><img src="https://img.shields.io/badge/-Simple%20Telegram%20Bot-black" alt="Facebook" /></a>&nbsp;
 
 </p>
 <br>
@@ -60,5 +60,5 @@
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
+</div>
 #### Thank You for visiting😇
