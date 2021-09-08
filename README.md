@@ -1,32 +1,65 @@
-<img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
-
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
-
-- 🔭 I’m currently working on Django
-- 🌱 I’m currently learning Frontend
-- 📫 How to reach me: Kharezmi.uz@gmail.com
-- 😄 My website: https://azizbek.tech
-
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
-
-- <a href="https://azizbek.tech/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
-
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
+<p>
+  <h2 align="center"> Hey there! I'm Asadbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+</p>
 <br>
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+<p>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="300"/>
+</p>
+
+<h3> I'm Software Engineer from Uzbekistan. </h3>
+<br>
+<br>
+- 🔋  I’m currently learning <b>Django</b> .<br>
+- 💬 Ask me about anything, I am happy to help<br>
+- 📫 How to reach me: kharezmi.uz@gmail.com<br>
+- 😄 My website: https://azizbek.tech/<br>
+- ⚡️ Fun fact: I use linux🐧 also Windows :))
+<br>
+<br>
+<hr>
+<br>
+<b> <h2 align="center"> 📘 My top open source projects </h2> </b>
+<br>
+<p align="center">
+<a href="https://github.com/kharezmi/echobot"><img src="https://img.shields.io/badge/EDUCATION SITE-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Facebook" /></a>&nbsp;
+
+</p>
+<br>
+<b> <h2 align="center"> 🛠️ Languages and Tools </h2> </b>
+<p align="center">  
+
+  ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
+  ![django](https://img.shields.io/badge/-django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
+  ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFA611)
+  ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=211F1F)
+  <br>
+  ![linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=072c61)
+  ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
+  ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=264de4)
+  ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=CD6799)
+  ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+
+</p>
+<br>
+<b> <h2 align="center">💻 My Github activity </h2></b>
+<p>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=kharezmi&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharezmi&theme=radical&title_color=8E2DE2&text_color=fff)
+</p>
+<br>
 <br>
 
 
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-<br>
+<b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
+  
+<a href="https://instagram.com/kharezmi_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="linkedin.com/in/kharezmi-mirzayev-68592a213" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:kharezmi.uz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://t.me/kharezmi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
+  
+</p>
 
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
+#### Thank You for visiting😇
