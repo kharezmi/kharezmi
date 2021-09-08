@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center"> Hey there! I'm Asadbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+  <h2 align="center"> Hey there! I'm Azizbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 </p>
 <br>
 <p>
@@ -32,7 +32,6 @@
   ![django](https://img.shields.io/badge/-django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
   ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFA611)
   ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=211F1F)
-  <br>
   ![linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=072c61)
   ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
   ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=264de4)
@@ -44,7 +43,7 @@
 <b> <h2 align="center">💻 My Github activity </h2></b>
 <p>
   
-<img src="https://github-readme-stats.vercel.app/api?username=kharezmi&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharezmi&theme=radical&title_color=8E2DE2&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api?username=kharezmi&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">
 </p>
 <br>
 <br>
