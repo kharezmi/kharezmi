@@ -23,7 +23,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/kharezmi/echobot"><img src="https://img.shields.io/badge/-simple_telegram_bot-bot?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=8E2DE2&color=grey" alt="Facebook" /></a>
-<a href="https://github.com/kharezmi/CPythonsMusicsBot"><img src="https://img.shields.io/badge/-simple_telegram_bot-bot?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=8E2DE2&color=grey" alt="Facebook" /></a>
+<a href="https://github.com/kharezmi/CPythonsMusicsBot"><img src="https://img.shields.io/badge/-Music_telegram_bot-bot?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=8E2DE2&color=grey" alt="Facebook" /></a>
  
 
 </p>
