@@ -3,7 +3,7 @@
 </p>
 <br>
 <p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="250"/>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="280"/>
 </p>
 
 <h3> I'm Software Engineer from Uzbekistan. </h3>
@@ -16,7 +16,7 @@
 - ⚡️ Fun fact: I use linux🐧 also Windows :))
 <br>
 <br>
-<hr>
+<br>
 <hr>
 <br>
 <b> <h2 align="center"> 📘 My top open source projects </h2> </b>
