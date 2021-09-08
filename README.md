@@ -43,7 +43,7 @@
 <b> <h2 align="center">💻 My Github activity </h2></b>
 <p>
   
-<img src="https://github-readme-stats.vercel.app/api?username=kharezmi&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">
+<img src="https://github-readme-stats.vercel.app/api?username=kharezmi&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px" align="center">
 </p>
 <br>
 <br>
