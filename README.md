@@ -12,7 +12,7 @@
 - 🔋  I’m currently learning <b>Django</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: kharezmi.uz@gmail.com<br>
-- 😄 My website: https://azizbek.tech/<br>
+- 😄 My website: <a href="https://azizbekmirzayev.netlify.app/">mirzayev.uz</a><br>
 - ⚡️ Fun fact: I use linux🐧 also Windows :))
 <br>
 <br>
