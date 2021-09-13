@@ -23,7 +23,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/kharezmi/CPythonMusicsBot"><img src="https://img.shields.io/badge/-Music_telegram_bot-bot?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=8E2DE2&color=grey" alt="@CPythonMusicsBot" /></a>
-<a href="https://github.com/kharezmi/UkrainePods"><img src="https://img.shields.io/badge/-Ukraine_Pods_Bod-bot?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=8E2DE2&color=grey" alt="@theUkrainePodsbot" /></a>
+<a href="https://github.com/kharezmi/UkrainePods"><img src="https://img.shields.io/badge/-The_Ukraine_Pods_Bot-bot?style=for-the-badge&logo=chatbot&logoColor=white&labelColor=8E2DE2&color=grey" alt="@theUkrainePodsbot" /></a>
 
 </p>
 <br>
