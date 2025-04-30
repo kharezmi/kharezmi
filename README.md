@@ -11,7 +11,7 @@
 <br>
 - 🔋  I’m currently learning <b>Django</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: kharezmi.uz@gmail.com<br>
+- 📫 How to reach me: mirzayevabdulaziz25@gmail.com<br>
 - 😄 My website: <a href="https://azizbekmirzayev.netlify.app/">mirzayev.uz</a><br>
 - ⚡️ Fun fact: I use linux🐧 also Windows :))
 <br>
@@ -56,7 +56,7 @@
 
 <b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
  <div align="center">
-<a href="https://instagram.com/kharezmi_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  <a href="https://linkedin.com/in/kharezmi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a><a href="mailto:kharezmi.uz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a><a href="https://t.me/kharezmi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/50/000000/telegram-app--v4.png" width="50"/></a>
+<a href="https://instagram.com/kharezmi_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  <a href="https://uz.linkedin.com/in/abdulaziz-mirzayev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a><a href="mailto:kharezmi.uz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a><a href="https://t.me/kharezmi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/50/000000/telegram-app--v4.png" width="50"/></a>
   </div>
 </p>
 
