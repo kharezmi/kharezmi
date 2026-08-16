@@ -1,14 +1,12 @@
 <p>
   <h2 align="center"> Hey there! I'm Abdulaziz. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h2>
 </p>
-<br>
 <p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="280"/>
 </p>
 
 <!-- <h3> I'm Software Engineer from Uzbekistan. </h3> -->
-<br>
-<br>
+
 <!-- - 🔋  I’m currently learning <b>Django</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: mirzayevabdulaziz25@gmail.com<br>
