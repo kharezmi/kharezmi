@@ -6,7 +6,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="280"/>
 </p>
 
-<h3> I'm Software Engineer from Uzbekistan. </h3>
+<!-- <h3> I'm Software Engineer from Uzbekistan. </h3> -->
 <br>
 <br>
 <!-- - 🔋  I’m currently learning <b>Django</b> .<br>
