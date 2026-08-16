@@ -9,11 +9,11 @@
 <h3> I'm Software Engineer from Uzbekistan. </h3>
 <br>
 <br>
-- 🔋  I’m currently learning <b>Django</b> .<br>
+<!-- - 🔋  I’m currently learning <b>Django</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: mirzayevabdulaziz25@gmail.com<br>
 - 😄 My website: <a href="https://azizbekmirzayev.netlify.app/">mirzayev.uz</a><br>
-- ⚡️ Fun fact: I use linux🐧 also Windows :))
+- ⚡️ Fun fact: I use linux🐧 also Windows :)) -->
 <br>
 <br>
 <br>
