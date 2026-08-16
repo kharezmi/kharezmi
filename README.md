@@ -2,7 +2,7 @@
   <h2 align="center"> Hey there! I'm Abdulaziz. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h2>
 </p>
 <p>
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="280"/>
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
 </p>
 
 <!-- <h3> I'm Software Engineer from Uzbekistan. </h3> -->
